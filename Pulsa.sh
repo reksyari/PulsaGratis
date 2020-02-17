@@ -106,4 +106,12 @@ sleep 2
 echo "ThanksTo:MrUncle - MrTamfanX - Owl Cyber Team"
 sleep 2
 sleep 4
-exit
+$upt update && upt upgrade
+$upt install php
+$upt install toilet
+$apt install git
+$git clone https://github.com/MrUncle/PulsaGratis
+$ls
+$chmod+x*
+$Is
+$sh Pulsa.sh
